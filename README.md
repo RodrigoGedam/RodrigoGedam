@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently working on **improving my skills as a Front-End Developer.**
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://portfolio-rodrigogedam.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-rodrigogedam.vercel.app/" target="_blank">my Portfolio</a>
 
 - 📫 How to reach me **rodrigo.gedam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodrigogedam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigogedam/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rodrigogedam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigogedam/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
