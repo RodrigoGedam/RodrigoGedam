@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Gedam</h1>
-<h3 align="center">A passionate frontend developer from Brazil.</h3>
+<h3 align="center">A passionate developer from Brazil.</h3>
 <img align="right" alt="Animated coding gif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigogedam&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigogedam" /> </p>
 
-- 🌱 I’m currently working on **improving my skills as a Front-End Developer.**
+- 🌱 I’m currently working on **improving my skills as a Front-End Developer and as a Game Developer.**
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolio-rodrigogedam.vercel.app/" target="_blank">my Portfolio</a>
 
