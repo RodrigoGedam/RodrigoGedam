@@ -8,7 +8,7 @@
 - 🎓 Just wrapped up a postgraduate degree in **Full-Stack Development** (Node.js & Next.js)
 - 🔭 I'm currently building full-stack projects with **React, Next.js, Node.js and GraphQL**
 - 🌱 Also improving my skills as a **Game Developer** on the side
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-rodrigogedam.vercel.app/" target="_blank">my Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-git-main-rodrigogedams-projects.vercel.app/" target="_blank">my Portfolio</a>
 - 💼 Open to **Junior Front-End / Full-Stack** opportunities
 - 📫 How to reach me **rodrigo.gedam@gmail.com**
 
